@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel bendita
+
+This log tracks the cryptographic history and versioning for the song **Piel bendita** (piel-bendita).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:51:00.290763 | `v1` | `bb80fee9ba1017c49e49b410f9dd96e7167b27e23cf9125e4641ed4b38bbfaf5` | `e2d2a7988e29b5486ca6f10b36a2603aa734e1d0bb6083e6d5ebd4780f4d2c15` | `2026-06-16_piel-bendita-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
